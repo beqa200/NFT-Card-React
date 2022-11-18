@@ -10,8 +10,8 @@
 
 ### Links
 
-- Solution URL: [GitHub Code](https://github.com/beqa200/Interactive-Pricing-Component)
-- Live Site URL: [GitHub Live](https://beqa200.github.io/Interactive-Pricing-Component/)
+- Solution URL: [GitHub Code](https://github.com/beqa200/nft-card-react)
+- Live Site URL: [GitHub Live](https://nft-card-react-swart.vercel.app/)
 
 ## My process
 
